@@ -1,0 +1,5 @@
+1. Read Local files to Dataframe:
+   spark.read.csv("",header=True)
+2. Read files in s3:
+3. Read files in HDFS:
+4. Read files in Hive:
