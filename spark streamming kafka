@@ -1,0 +1,5 @@
+Step 1: Start Zookeeper. 
+      zookeeper-server-start /path/to/zookeeper.properties
+Step 2: Start Kafka.
+
+      
